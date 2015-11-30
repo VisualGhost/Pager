@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageIndicator">
+        <attr name="dotRaius" format="reference"/>
+        <attr name="distanceBetweenDots" format="reference"/>
+        <attr name="selectedDotColor" format="color"/>
+        <attr name="unSelectedDotColor" format="color"/>
+    </declare-styleable>
+
+</resources>
